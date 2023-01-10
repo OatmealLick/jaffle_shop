@@ -78,9 +78,9 @@ id,user_id,order_date,status
 77,35,2018-03-21,shipped
 78,90,2018-03-23,shipped
 79,52,2018-03-23,shipped
-80,11,2018-03-23,shipped
-81,76,2018-03-23,shipped
-82,46,2018-03-24,shipped
+80,11,2022-01-01,placed
+81,76,2022-01-03,placed
+82,46,2022-01-04,completed
 83,54,2018-03-24,shipped
 84,70,2018-03-26,placed
 85,47,2018-03-26,shipped
@@ -97,4 +97,4 @@ id,user_id,order_date,status
 96,90,2018-04-06,placed
 97,89,2018-04-07,placed
 98,41,2018-04-07,placed
-99,85,2018-04-09,placed
+99,110,2018-04-09,completed

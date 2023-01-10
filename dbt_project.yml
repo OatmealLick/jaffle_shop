@@ -3,7 +3,7 @@ name: 'jaffle_shop'
 config-version: 2
 version: '0.1'
 
-# profile: 'jaffle_shop'
+#profile: 'jaffle_shop'
 profile: 'bigquery-private'
 
 model-paths: ["models"]
@@ -15,7 +15,7 @@ macro-paths: ["macros"]
 target-path: "target"
 clean-targets:
     - "target"
-    - "dbt_modules"
+    - "dbt_packages"
     - "logs"
 
 require-dbt-version: [">=1.0.0", "<2.0.0"]

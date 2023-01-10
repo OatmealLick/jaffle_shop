@@ -14,3 +14,6 @@ dbt test
 
 dbt docs generate
 dbt docs serve
+
+brew unlink dbt-postgres@1.2.2 && brew link --overwrite dbt-postgres@1.2.2
+brew unlink dbt-bigquery@1.2.0 && brew link --overwrite dbt-bigquery@1.2.0
