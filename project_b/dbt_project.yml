@@ -1,10 +1,10 @@
-name: 'jaffle_shop'
+name: 'project_b'
 
 config-version: 2
 version: '0.1'
 
-#profile: 'jaffle_shop'
-profile: 'bigquery-private'
+profile: 'jaffle_shop'
+#profile: 'bigquery-private'
 
 model-paths: ["models"]
 seed-paths: ["seeds"]
